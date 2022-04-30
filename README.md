@@ -14,7 +14,7 @@ Este proyecto es una solución simple de API CRUD, utilizando ASP.NET Core 6 Web
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-6-ASPNET-Core-API-CRUD
+gh repo clone FernandoCalmet/dotnet-6-aspnet-core-api-crud
 ```
 
 ## 📄 LICENCIA
